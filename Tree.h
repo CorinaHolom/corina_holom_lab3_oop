@@ -5,6 +5,8 @@
 #ifndef LAB3_TREE_H
 #define LAB3_TREE_H
 
+#include "Node.h"
+
 class Tree{
     friend class Node;
 };
