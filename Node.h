@@ -9,7 +9,6 @@ class Node{
     friend class Tree;
 private:
     int wert;
-
 };
 
 #endif //LAB3_NODE_H
