@@ -22,5 +22,6 @@ int main() {
     assert(tr.countEdges(tr.root)==5);
     assert(tr.height(tr.root)==4);
     std::cout<<"Test End!";
+
     return 0;
 }
