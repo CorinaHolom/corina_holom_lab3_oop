@@ -3,4 +3,4 @@ project(Lab3)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Lab3 main.cpp Node.cpp Node.h Tree.cpp Tree.h)
+add_executable(Lab3 main.cpp Node.h Tree.cpp Tree.h)

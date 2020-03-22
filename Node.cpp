@@ -4,7 +4,3 @@
 
 #include "Node.h"
 
-Node::Node(int wert) {
-    this->wert = wert;
-}
-
